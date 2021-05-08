@@ -10,7 +10,7 @@ We want Extract, transform and load this in order to  identify insides and trend
 Our goal is to create a data base in PostgreSQL that combine the three data set.
 
 ## Description
-   https://github.com/NEXTSLIM/PROYECT-II-The-Music-has-Changed
+   https://github.com/NEXTSLIM/PROYECT-II-The-Music-has-Changed  ▌
    https://nextslim.github.io/The-Music-has-Changed-WEBSIDE/
    
  ## Data sources:
