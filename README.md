@@ -1,5 +1,5 @@
 # The Music has Changed(WEBSIDE)
-
+'WEB SIDE ONLY FOR LAPTOP OR PC"
 In this project, We going to examine two data sets relate with music. 
 
 The first contain the music sales from 1973 to 2019 in USA,  based on sales data by the Recording Industry Industry Association of America (RIAA). 
